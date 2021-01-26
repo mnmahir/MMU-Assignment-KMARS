@@ -8,10 +8,6 @@
 #define DHTTYPE DHT22
 DHT dht(DHTPIN, DHTTYPE);
 
-// Output LED
-#define GREEN 16          // Green LED on pin 16
-#define RED 17            // Red LED on pin 17
-
 //===================Global Variables========================
 float dht_data[] = {0.0,0.0};         // To store value of temperature and humidity in an array
 
