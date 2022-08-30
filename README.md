@@ -7,5 +7,7 @@ Prototype of an Embedded IoT System: MAN Intelligent Kitchen Monitoring, Alertin
 Group 11
 
 Hanafi bin Shamsul Irwan (L) 1161102005 EE
+
 Mohd Faqzlan bin Mohd Rahim 1161102308 EE
+
 Muhammad Nurmahir bin Mohamad Sehmi 1161100233 CE
